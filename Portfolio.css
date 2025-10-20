@@ -105,7 +105,7 @@ images */
 	float: center;
 	position: relative;
 	margin-top: -57px;
-	margin-left: 1100px;
+	margin-left: 1000px;
 	width: 40px;
 	height: 40px;
 }
@@ -253,7 +253,7 @@ navbar */
 	width: 50%; /* This ensures the column takes up half of the page width */
 	padding: 10px;
 	padding-top: 1%; /* This ensures there is space between the top of the column and our headings */
-	height: 300px; /*This sets the height of the column to 400px - this may need to be adjusted depending on the text you enter */							/*=400
+	height: 400px; /*This sets the height of the column to 400px - this may need to be adjusted depending on the text you enter */							/*=400
 	background-color: #f2f2f2; /* Sets the background color of the columns with class Column_1 */
 }
 
